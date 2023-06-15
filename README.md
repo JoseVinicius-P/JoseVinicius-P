@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row-reverse;">
   <div>
     <h1 style="font-size: 24px; color: #333; margin-bottom: 10px;">Perfil do GitHub</h1>
     <p style="margin-bottom: 10px; line-height: 1.5;">👋 Olá, eu sou o @JoseVinicius-P</p>
