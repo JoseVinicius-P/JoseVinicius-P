@@ -1,5 +1,4 @@
-<h1 style="font-size: 24px; color: #333; margin-bottom: 10px;">Perfil do GitHub</h1>
-  <p style="margin-bottom: 10px; line-height: 1.5;">👋 Olá, eu sou o @JoseVinicius-P</p>
+<h1 style="font-size: 24px; color: #333; margin-bottom: 10px;">👋 Olá, eu sou o @JoseVinicius-P</h1>
   <p style="margin-bottom: 10px; line-height: 1.5;">👀 Tenho grande interesse no desenvolvimento mobile, com foco especial em Android.</p>
   <p style="margin-bottom: 10px; line-height: 1.5;">🌱 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Android nativo com Java, explorando também o framework Flutter para criar aplicativos multiplataforma.</p>
   <p style="margin-bottom: 10px; line-height: 1.5;">📚 Sou técnico em informática e estou cursando bacharelado em sistemas de informação para aprimorar minhas habilidades e conhecimentos na área.</p>
